@@ -1,0 +1,12 @@
+.auth{
+  display: flex;
+  justify-content: space-between;
+  width: 25rem;
+  padding-top: 1.20rem;
+color: #fff;
+padding-bottom: 3rem;
+}
+.auth a{
+  color: #fff;
+  text-decoration: none;
+}

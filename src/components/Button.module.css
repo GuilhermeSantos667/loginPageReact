@@ -1,0 +1,19 @@
+.button{
+  display: flex;
+  align-items: center ;
+  justify-content: center;
+  width: 23rem;
+  height: 3rem;
+  border: 4px solid #fff;
+  border-radius: 30px;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.button a{
+text-decoration: none;
+color: rgb(34, 34, 34);
+text-align: center;
+font-size: 1rem;
+font-weight: bold;
+}
